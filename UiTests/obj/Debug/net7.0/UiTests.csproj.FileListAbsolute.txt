@@ -1,0 +1,5 @@
+C:\Users\Sanjay\source\repos\TestProject1\UiTests\obj\Debug\net7.0\UiTests.csproj.AssemblyReference.cache
+C:\Users\Sanjay\source\repos\TestProject1\UiTests\obj\Debug\net7.0\UiTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanjay\source\repos\TestProject1\UiTests\obj\Debug\net7.0\UiTests.AssemblyInfoInputs.cache
+C:\Users\Sanjay\source\repos\TestProject1\UiTests\obj\Debug\net7.0\UiTests.AssemblyInfo.cs
+C:\Users\Sanjay\source\repos\TestProject1\UiTests\obj\Debug\net7.0\UiTests.csproj.CoreCompileInputs.cache
